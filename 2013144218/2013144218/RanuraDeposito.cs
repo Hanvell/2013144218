@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace _2013144218
 {
-    class Program
+    class RanuraDeposito
     {
-        static void Main(string[] args)
-        {          
-            Atm objATM = new Atm();
-            objATM.comenzar();
-        }
     }
 }
